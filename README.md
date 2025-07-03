@@ -1,4 +1,5 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+,+This+is+Seungmin+Lee)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello, This is Seungmin Lee%20render&fontSize=90)
+
 <!--
 
 **seungmin956/seungmin956** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
