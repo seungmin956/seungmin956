@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&&color=0:EEFF00,100:a82da8&height=300&section=header&text=Seungmin's+Github&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=venom&&color=0:EEFF00,100:a82da8&height=300&section=header&text=Seungmin's+Github&fontSize=80)
 
 <!--
 
