@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Hello, This is Seungmin Lee)](https://git.io/typing-svg)
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World;안녕하세요)
 <!--
 
 **seungmin956/seungmin956** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
