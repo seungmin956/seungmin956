@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Python-F7DF1E.svg?style=for-the-badge&logo=Python&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/SQL-E34F26.svg?style=for-the-badge&logo=SQL&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Tableau-DB7093?style=for-the-badge&logo=Tableau&logoColor=ffd35b" />&nbsp
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/R-DB7093?style=for-the-badge&logo=R&logoColor=ffdd54" />&nbsp
 </div>
 
 <br>
