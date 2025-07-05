@@ -17,14 +17,6 @@
   <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
 </div>
 
-<br>
-
-<h3 align="center">📊 Profile 📊</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/Data%20Analyst-4285F4?style=for-the-badge&logo=analytics&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Ex%20Hotelier-6C757D?style=for-the-badge&logo=building&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Career%20Transition-FF6B35?style=for-the-badge&logo=trending-up&logoColor=white" />&nbsp
-</div>
 
 <br>
 
